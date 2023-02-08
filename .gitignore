@@ -1,7 +1,6 @@
 aaa.ipynb
 amostra_de_perfis_de_candidatos_NTConsult_2022.csv
 contratados.csv
-credentials.txt
 nao contratados.csv
 !scraper.py
 !chromedriver.exe
